@@ -22,7 +22,7 @@ The project is divided into two main parts:
 
 <hr>
 
-### 🚀 Link do Projeto: https://wanderwise-mock.netlify.app/
+### 🚀 Link do Projeto: https://wanderwise-mk.netlify.app/
 
 <hr>
 
